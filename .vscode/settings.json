@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "xstring": "cpp"
+        "*.sql": "sql",
+        "xstring": "cpp",
+        "xiosbase": "cpp"
     }
 }

@@ -1,6 +1,4 @@
-#include<iostream>
-#include<algorithm>
-#include<cstring>
+#include<bits/stdc++.h>
 using namespace std;
 
 void fastio()
